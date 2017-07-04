@@ -1,0 +1,1224 @@
+
+
+Generated 10 test routes in 0.01000s (0.36%)
+Compiled 10 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.58800s (92.49%)
+Wrote files in 0.04000s (1.43%)
+Script ran in 2.79800s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.05000s (1.79%)
+Average routing time: 2.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.10000s (3.57%)
+Average routing time: 5.00 us
+
+
+Generated 20 test routes in 0.00000s (0.00%)
+Compiled 20 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.72701s (91.60%)
+Wrote files in 0.10000s (3.36%)
+Script ran in 2.97701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.05000s (1.68%)
+Average routing time: 2.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.10000s (3.36%)
+Average routing time: 5.00 us
+
+
+Generated 50 test routes in 0.00000s (0.00%)
+Compiled 50 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.11000s (91.34%)
+Wrote files in 0.05000s (2.16%)
+Script ran in 2.31000s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.05000s (2.16%)
+Average routing time: 2.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.10000s (4.33%)
+Average routing time: 5.00 us
+
+
+Generated 100 test routes in 0.01000s (0.39%)
+Compiled 100 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.32000s (90.94%)
+Wrote files in 0.05000s (1.96%)
+Script ran in 2.55101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.06000s (2.35%)
+Average routing time: 3.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.11100s (4.35%)
+Average routing time: 5.55 us
+
+
+Generated 150 test routes in 0.01000s (0.37%)
+Compiled 150 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.49400s (91.22%)
+Wrote files in 0.05000s (1.83%)
+Script ran in 2.73400s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.06000s (2.19%)
+Average routing time: 3.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.12000s (4.39%)
+Average routing time: 6.00 us
+
+
+Generated 300 test routes in 0.02000s (0.65%)
+Compiled 300 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.81000s (90.91%)
+Wrote files in 0.04100s (1.33%)
+Script ran in 3.09100s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.09000s (2.91%)
+Average routing time: 4.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.13000s (4.21%)
+Average routing time: 6.50 us
+
+
+Generated 500 test routes in 0.03000s (0.97%)
+Compiled 500 test routes in 0.01000s (0.32%)
+Generated 20000 fake requests in 2.75401s (89.01%)
+Wrote files in 0.05000s (1.62%)
+Script ran in 3.09401s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.10000s (3.23%)
+Average routing time: 5.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.14000s (4.52%)
+Average routing time: 7.00 us
+
+
+Generated 1000 test routes in 0.05000s (1.64%)
+Compiled 1000 test routes in 0.01000s (0.33%)
+Generated 20000 fake requests in 2.58300s (84.83%)
+Wrote files in 0.06000s (1.97%)
+Script ran in 3.04501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (5.25%)
+Average routing time: 8.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.14200s (4.66%)
+Average routing time: 7.10 us
+
+
+Generated 1500 test routes in 0.09000s (2.81%)
+Compiled 1500 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.60000s (81.25%)
+Wrote files in 0.07000s (2.19%)
+Script ran in 3.20000s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.22000s (6.87%)
+Average routing time: 11.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.15000s (4.69%)
+Average routing time: 7.50 us
+
+
+Generated 2000 test routes in 0.11000s (3.05%)
+Compiled 2000 test routes in 0.02000s (0.55%)
+Generated 20000 fake requests in 2.85101s (78.95%)
+Wrote files in 0.07000s (1.94%)
+Script ran in 3.61101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.28000s (7.75%)
+Average routing time: 14.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.17000s (4.71%)
+Average routing time: 8.50 us
+
+
+Generated 3000 test routes in 0.16000s (4.09%)
+Compiled 3000 test routes in 0.02000s (0.51%)
+Generated 20000 fake requests in 2.80300s (71.58%)
+Wrote files in 0.08000s (2.04%)
+Script ran in 3.91601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.42300s (10.80%)
+Average routing time: 21.15 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.22000s (5.62%)
+Average routing time: 11.00 us
+
+
+Generated 4000 test routes in 0.20200s (4.66%)
+Compiled 4000 test routes in 0.03000s (0.69%)
+Generated 20000 fake requests in 2.73200s (63.01%)
+Wrote files in 0.11000s (2.54%)
+Script ran in 4.33601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.54200s (12.50%)
+Average routing time: 27.10 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.28000s (6.46%)
+Average routing time: 14.00 us
+
+
+Generated 5000 test routes in 0.26000s (5.55%)
+Compiled 5000 test routes in 0.04000s (0.85%)
+Generated 20000 fake requests in 2.66100s (56.83%)
+Wrote files in 0.10000s (2.14%)
+Script ran in 4.68201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.71100s (15.19%)
+Average routing time: 35.55 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.34000s (7.26%)
+Average routing time: 17.00 us
+
+
+Generated 10000 test routes in 0.52100s (2.79%)
+Compiled 10000 test routes in 0.12000s (0.64%)
+Generated 20000 fake requests in 2.74000s (14.69%)
+Wrote files in 0.21400s (1.15%)
+Script ran in 18.64628s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 2.28104s (12.23%)
+Average routing time: 114.05 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 1.24507s (6.68%)
+Average routing time: 62.25 us
+
+
+Generated 2000 test routes in 0.16000s (4.59%)
+Compiled 2000 test routes in 0.01000s (0.29%)
+Generated 20000 fake requests in 2.67800s (76.78%)
+Wrote files in 0.07000s (2.01%)
+Script ran in 3.48801s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.29000s (8.31%)
+Average routing time: 14.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (4.59%)
+Average routing time: 8.00 us
+
+
+Generated 2000 test routes in 0.12000s (3.62%)
+Compiled 2000 test routes in 0.01000s (0.30%)
+Generated 20000 fake requests in 2.58501s (78.07%)
+Wrote files in 0.06000s (1.81%)
+Script ran in 3.31101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.27000s (8.15%)
+Average routing time: 13.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.15600s (4.71%)
+Average routing time: 7.80 us
+
+
+Generated 2000 test routes in 0.12000s (3.52%)
+Compiled 2000 test routes in 0.01000s (0.29%)
+Generated 20000 fake requests in 2.64201s (77.55%)
+Wrote files in 0.07000s (2.05%)
+Script ran in 3.40701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.28000s (8.22%)
+Average routing time: 14.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.17500s (5.14%)
+Average routing time: 8.75 us
+
+
+Generated 2000 test routes in 0.11000s (3.04%)
+Compiled 2000 test routes in 0.01000s (0.28%)
+Generated 20000 fake requests in 2.71401s (75.06%)
+Wrote files in 0.07200s (1.99%)
+Script ran in 3.61601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.35750s (9.89%)
+Average routing time: 17.88 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.25250s (6.98%)
+Average routing time: 12.63 us
+
+
+Generated 2000 test routes in 0.11000s (3.13%)
+Compiled 2000 test routes in 0.01000s (0.28%)
+Generated 20000 fake requests in 2.71201s (77.22%)
+Wrote files in 0.08000s (2.28%)
+Script ran in 3.51201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.30000s (8.54%)
+Average routing time: 15.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.19000s (5.41%)
+Average routing time: 9.50 us
+
+
+Generated 2000 test routes in 0.11000s (3.08%)
+Compiled 2000 test routes in 0.02000s (0.56%)
+Generated 20000 fake requests in 2.76501s (77.32%)
+Wrote files in 0.07000s (1.96%)
+Script ran in 3.57601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.29000s (8.11%)
+Average routing time: 14.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.20100s (5.62%)
+Average routing time: 10.05 us
+
+
+Generated 2000 test routes in 0.11000s (3.08%)
+Compiled 2000 test routes in 0.02000s (0.56%)
+Generated 20000 fake requests in 2.76401s (77.29%)
+Wrote files in 0.08000s (2.24%)
+Script ran in 3.57601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.28900s (8.08%)
+Average routing time: 14.45 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.19000s (5.31%)
+Average routing time: 9.50 us
+
+
+Generated 2000 test routes in 0.12000s (3.41%)
+Compiled 2000 test routes in 0.01000s (0.28%)
+Generated 20000 fake requests in 2.71101s (76.97%)
+Wrote files in 0.08000s (2.27%)
+Script ran in 3.52201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.29000s (8.23%)
+Average routing time: 14.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.20000s (5.68%)
+Average routing time: 10.00 us
+
+
+Generated 100 test routes in 0.03000s (1.26%)
+Compiled 100 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.14401s (89.93%)
+Wrote files in 0.05000s (2.10%)
+Script ran in 2.38401s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.05000s (2.10%)
+Average routing time: 2.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.10000s (4.19%)
+Average routing time: 5.00 us
+
+
+Generated 200 test routes in 0.02000s (0.66%)
+Compiled 200 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.79300s (91.48%)
+Wrote files in 0.05000s (1.64%)
+Script ran in 3.05301s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.07000s (2.29%)
+Average routing time: 3.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.12000s (3.93%)
+Average routing time: 6.00 us
+
+
+Generated 300 test routes in 0.02000s (0.75%)
+Compiled 300 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.39500s (89.77%)
+Wrote files in 0.05000s (1.87%)
+Script ran in 2.66800s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.07000s (2.62%)
+Average routing time: 3.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.12300s (4.61%)
+Average routing time: 6.15 us
+
+
+Generated 400 test routes in 0.02000s (0.70%)
+Compiled 400 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.54501s (89.33%)
+Wrote files in 0.06200s (2.18%)
+Script ran in 2.84901s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.08100s (2.84%)
+Average routing time: 4.05 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.13000s (4.56%)
+Average routing time: 6.50 us
+
+
+Generated 500 test routes in 0.04000s (1.31%)
+Compiled 500 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.71001s (88.85%)
+Wrote files in 0.05000s (1.64%)
+Script ran in 3.05001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.11000s (3.61%)
+Average routing time: 5.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.12000s (3.93%)
+Average routing time: 6.00 us
+
+
+Generated 600 test routes in 0.04000s (1.40%)
+Compiled 600 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.50901s (87.67%)
+Wrote files in 0.06000s (2.10%)
+Script ran in 2.86201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.11000s (3.84%)
+Average routing time: 5.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.12200s (4.26%)
+Average routing time: 6.10 us
+
+
+Generated 700 test routes in 0.05000s (1.66%)
+Compiled 700 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.63301s (87.39%)
+Wrote files in 0.06000s (1.99%)
+Script ran in 3.01301s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.12000s (3.98%)
+Average routing time: 6.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.13000s (4.31%)
+Average routing time: 6.50 us
+
+
+Generated 800 test routes in 0.04800s (1.54%)
+Compiled 800 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.71501s (86.88%)
+Wrote files in 0.05000s (1.60%)
+Script ran in 3.12501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.14200s (4.54%)
+Average routing time: 7.10 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.13000s (4.16%)
+Average routing time: 6.50 us
+
+
+Generated 900 test routes in 0.05000s (1.54%)
+Compiled 900 test routes in 0.01000s (0.31%)
+Generated 20000 fake requests in 2.80602s (86.50%)
+Wrote files in 0.05300s (1.63%)
+Script ran in 3.24402s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.15000s (4.62%)
+Average routing time: 7.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.14000s (4.32%)
+Average routing time: 7.00 us
+
+
+Generated 1000 test routes in 0.06000s (2.00%)
+Compiled 1000 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.55101s (85.00%)
+Wrote files in 0.06000s (2.00%)
+Script ran in 3.00101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.15000s (5.00%)
+Average routing time: 7.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.14000s (4.67%)
+Average routing time: 7.00 us
+
+
+Generated 1100 test routes in 0.07800s (2.41%)
+Compiled 1100 test routes in 0.00500s (0.15%)
+Generated 20000 fake requests in 2.72701s (84.43%)
+Wrote files in 0.06000s (1.86%)
+Script ran in 3.23001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.17000s (5.26%)
+Average routing time: 8.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.15000s (4.64%)
+Average routing time: 7.50 us
+
+
+Generated 1200 test routes in 0.07000s (2.24%)
+Compiled 1200 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.61501s (83.81%)
+Wrote files in 0.06200s (1.99%)
+Script ran in 3.12001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.18300s (5.87%)
+Average routing time: 9.15 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.14000s (4.49%)
+Average routing time: 7.00 us
+
+
+Generated 1300 test routes in 0.07000s (2.21%)
+Compiled 1300 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.62400s (82.93%)
+Wrote files in 0.07000s (2.21%)
+Script ran in 3.16400s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.19000s (6.01%)
+Average routing time: 9.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (5.06%)
+Average routing time: 8.00 us
+
+
+Generated 1400 test routes in 0.08000s (2.37%)
+Compiled 1400 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.78801s (82.71%)
+Wrote files in 0.07000s (2.08%)
+Script ran in 3.37101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.21000s (6.23%)
+Average routing time: 10.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16300s (4.84%)
+Average routing time: 8.15 us
+
+
+Generated 1500 test routes in 0.08100s (2.51%)
+Compiled 1500 test routes in 0.01000s (0.31%)
+Generated 20000 fake requests in 2.61001s (81.03%)
+Wrote files in 0.07000s (2.17%)
+Script ran in 3.22101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.22000s (6.83%)
+Average routing time: 11.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (4.97%)
+Average routing time: 8.00 us
+
+
+Generated 1600 test routes in 0.09000s (2.74%)
+Compiled 1600 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.65701s (80.83%)
+Wrote files in 0.07000s (2.13%)
+Script ran in 3.28701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.23000s (7.00%)
+Average routing time: 11.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (4.87%)
+Average routing time: 8.00 us
+
+
+Generated 1700 test routes in 0.09000s (2.70%)
+Compiled 1700 test routes in 0.01000s (0.30%)
+Generated 20000 fake requests in 2.65801s (79.82%)
+Wrote files in 0.08000s (2.40%)
+Script ran in 3.33001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.24200s (7.27%)
+Average routing time: 12.10 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.16000s (4.80%)
+Average routing time: 8.00 us
+
+
+Generated 1800 test routes in 0.11000s (3.22%)
+Compiled 1800 test routes in 0.01000s (0.29%)
+Generated 20000 fake requests in 2.69401s (78.84%)
+Wrote files in 0.08000s (2.34%)
+Script ran in 3.41701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.26000s (7.61%)
+Average routing time: 13.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.18000s (5.27%)
+Average routing time: 9.00 us
+
+
+Generated 1900 test routes in 0.11000s (3.13%)
+Compiled 1900 test routes in 0.00000s (0.00%)
+Generated 20000 fake requests in 2.76601s (78.76%)
+Wrote files in 0.07000s (1.99%)
+Script ran in 3.51201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.27600s (7.86%)
+Average routing time: 13.80 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.19000s (5.41%)
+Average routing time: 9.50 us
+
+
+Generated 2000 test routes in 0.10000s (2.90%)
+Compiled 2000 test routes in 0.02000s (0.58%)
+Generated 20000 fake requests in 2.67901s (77.61%)
+Wrote files in 0.08000s (2.32%)
+Script ran in 3.45201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.28000s (8.11%)
+Average routing time: 14.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.18000s (5.21%)
+Average routing time: 9.00 us
+
+
+Generated 2100 test routes in 0.11000s (3.20%)
+Compiled 2100 test routes in 0.02000s (0.58%)
+Generated 20000 fake requests in 2.63101s (76.62%)
+Wrote files in 0.07300s (2.13%)
+Script ran in 3.43401s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.29000s (8.44%)
+Average routing time: 14.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.19000s (5.53%)
+Average routing time: 9.50 us
+
+
+Generated 2200 test routes in 0.11000s (3.14%)
+Compiled 2200 test routes in 0.02000s (0.57%)
+Generated 20000 fake requests in 2.66000s (75.91%)
+Wrote files in 0.08000s (2.28%)
+Script ran in 3.50401s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.32200s (9.19%)
+Average routing time: 16.10 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.18200s (5.19%)
+Average routing time: 9.10 us
+
+
+Generated 2300 test routes in 0.13000s (3.61%)
+Compiled 2300 test routes in 0.02000s (0.56%)
+Generated 20000 fake requests in 2.71501s (75.48%)
+Wrote files in 0.08000s (2.22%)
+Script ran in 3.59701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.31200s (8.67%)
+Average routing time: 15.60 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.20000s (5.56%)
+Average routing time: 10.00 us
+
+
+Generated 2400 test routes in 0.13000s (3.49%)
+Compiled 2400 test routes in 0.02000s (0.54%)
+Generated 20000 fake requests in 2.79001s (74.80%)
+Wrote files in 0.09000s (2.41%)
+Script ran in 3.73001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.35000s (9.38%)
+Average routing time: 17.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.20000s (5.36%)
+Average routing time: 10.00 us
+
+
+Generated 2500 test routes in 0.13400s (3.64%)
+Compiled 2500 test routes in 0.02000s (0.54%)
+Generated 20000 fake requests in 2.72301s (74.01%)
+Wrote files in 0.08000s (2.17%)
+Script ran in 3.67901s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.36000s (9.79%)
+Average routing time: 18.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.20200s (5.49%)
+Average routing time: 10.10 us
+
+
+Generated 2600 test routes in 0.14000s (3.86%)
+Compiled 2600 test routes in 0.01000s (0.28%)
+Generated 20000 fake requests in 2.64601s (72.95%)
+Wrote files in 0.09100s (2.51%)
+Script ran in 3.62701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.35000s (9.65%)
+Average routing time: 17.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.22000s (6.07%)
+Average routing time: 11.00 us
+
+
+Generated 2700 test routes in 0.15900s (4.22%)
+Compiled 2700 test routes in 0.01700s (0.45%)
+Generated 20000 fake requests in 2.73601s (72.67%)
+Wrote files in 0.07300s (1.94%)
+Script ran in 3.76501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.38000s (10.09%)
+Average routing time: 19.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.22000s (5.84%)
+Average routing time: 11.00 us
+
+
+Generated 2800 test routes in 0.15000s (3.78%)
+Compiled 2800 test routes in 0.02000s (0.50%)
+Generated 20000 fake requests in 2.86501s (72.18%)
+Wrote files in 0.08000s (2.02%)
+Script ran in 3.96902s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.40900s (10.30%)
+Average routing time: 20.45 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.23500s (5.92%)
+Average routing time: 11.75 us
+
+
+Generated 2900 test routes in 0.15000s (3.89%)
+Compiled 2900 test routes in 0.02000s (0.52%)
+Generated 20000 fake requests in 2.74300s (71.12%)
+Wrote files in 0.08000s (2.07%)
+Script ran in 3.85701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.42000s (10.89%)
+Average routing time: 21.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.23100s (5.99%)
+Average routing time: 11.55 us
+
+
+Generated 3000 test routes in 0.16300s (4.28%)
+Compiled 3000 test routes in 0.02000s (0.52%)
+Generated 20000 fake requests in 2.67900s (70.28%)
+Wrote files in 0.10000s (2.62%)
+Script ran in 3.81201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.40000s (10.49%)
+Average routing time: 20.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.23000s (6.03%)
+Average routing time: 11.50 us
+
+
+Generated 3100 test routes in 0.16000s (4.12%)
+Compiled 3100 test routes in 0.02000s (0.52%)
+Generated 20000 fake requests in 2.70101s (69.63%)
+Wrote files in 0.09000s (2.32%)
+Script ran in 3.87901s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.43000s (11.09%)
+Average routing time: 21.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.24800s (6.39%)
+Average routing time: 12.40 us
+
+
+Generated 3200 test routes in 0.17000s (4.19%)
+Compiled 3200 test routes in 0.02000s (0.49%)
+Generated 20000 fake requests in 2.83401s (69.80%)
+Wrote files in 0.11000s (2.71%)
+Script ran in 4.06001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.44000s (10.84%)
+Average routing time: 22.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.25600s (6.31%)
+Average routing time: 12.80 us
+
+
+Generated 3300 test routes in 0.18000s (4.44%)
+Compiled 3300 test routes in 0.02000s (0.49%)
+Generated 20000 fake requests in 2.79000s (68.87%)
+Wrote files in 0.09000s (2.22%)
+Script ran in 4.05101s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.45000s (11.11%)
+Average routing time: 22.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.26100s (6.44%)
+Average routing time: 13.05 us
+
+
+Generated 3400 test routes in 0.19000s (4.70%)
+Compiled 3400 test routes in 0.02000s (0.49%)
+Generated 20000 fake requests in 2.71500s (67.15%)
+Wrote files in 0.10000s (2.47%)
+Script ran in 4.04301s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.48400s (11.97%)
+Average routing time: 24.20 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.27000s (6.68%)
+Average routing time: 13.50 us
+
+
+Generated 3500 test routes in 0.19400s (4.77%)
+Compiled 3500 test routes in 0.02000s (0.49%)
+Generated 20000 fake requests in 2.70001s (66.37%)
+Wrote files in 0.10000s (2.46%)
+Script ran in 4.06801s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.49000s (12.05%)
+Average routing time: 24.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.26000s (6.39%)
+Average routing time: 13.00 us
+
+
+Generated 3600 test routes in 0.19300s (4.69%)
+Compiled 3600 test routes in 0.02000s (0.49%)
+Generated 20000 fake requests in 2.72401s (66.20%)
+Wrote files in 0.10000s (2.43%)
+Script ran in 4.11501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.50300s (12.22%)
+Average routing time: 25.15 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.27000s (6.56%)
+Average routing time: 13.50 us
+
+
+Generated 3700 test routes in 0.20000s (4.84%)
+Compiled 3700 test routes in 0.02000s (0.48%)
+Generated 20000 fake requests in 2.70701s (65.45%)
+Wrote files in 0.10000s (2.42%)
+Script ran in 4.13601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.51600s (12.48%)
+Average routing time: 25.80 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.28300s (6.84%)
+Average routing time: 14.15 us
+
+
+Generated 3800 test routes in 0.21300s (5.14%)
+Compiled 3800 test routes in 0.02000s (0.48%)
+Generated 20000 fake requests in 2.68401s (64.72%)
+Wrote files in 0.10000s (2.41%)
+Script ran in 4.14701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.52000s (12.54%)
+Average routing time: 26.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.28000s (6.75%)
+Average routing time: 14.00 us
+
+
+Generated 3900 test routes in 0.21000s (4.99%)
+Compiled 3900 test routes in 0.02000s (0.48%)
+Generated 20000 fake requests in 2.69001s (63.96%)
+Wrote files in 0.10000s (2.38%)
+Script ran in 4.20601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.54600s (12.98%)
+Average routing time: 27.30 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.29000s (6.89%)
+Average routing time: 14.50 us
+
+
+Generated 4000 test routes in 0.21800s (5.03%)
+Compiled 4000 test routes in 0.03000s (0.69%)
+Generated 20000 fake requests in 2.76301s (63.74%)
+Wrote files in 0.11000s (2.54%)
+Script ran in 4.33501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.54000s (12.46%)
+Average routing time: 27.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.30400s (7.01%)
+Average routing time: 15.20 us
+
+
+Generated 4100 test routes in 0.21300s (4.82%)
+Compiled 4100 test routes in 0.04000s (0.91%)
+Generated 20000 fake requests in 2.76701s (62.64%)
+Wrote files in 0.11000s (2.49%)
+Script ran in 4.41701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.57700s (13.06%)
+Average routing time: 28.85 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.31000s (7.02%)
+Average routing time: 15.50 us
+
+
+Generated 4200 test routes in 0.22000s (4.95%)
+Compiled 4200 test routes in 0.04000s (0.90%)
+Generated 20000 fake requests in 2.78001s (62.61%)
+Wrote files in 0.11000s (2.48%)
+Script ran in 4.44001s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.58000s (13.06%)
+Average routing time: 29.00 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.31000s (6.98%)
+Average routing time: 15.50 us
+
+
+Generated 4300 test routes in 0.23000s (5.16%)
+Compiled 4300 test routes in 0.03000s (0.67%)
+Generated 20000 fake requests in 2.73801s (61.45%)
+Wrote files in 0.10000s (2.24%)
+Script ran in 4.45601s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.60700s (13.62%)
+Average routing time: 30.35 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.31000s (6.96%)
+Average routing time: 15.50 us
+
+
+Generated 4400 test routes in 0.23000s (5.00%)
+Compiled 4400 test routes in 0.04000s (0.87%)
+Generated 20000 fake requests in 2.77901s (60.36%)
+Wrote files in 0.11000s (2.39%)
+Script ran in 4.60401s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.63000s (13.68%)
+Average routing time: 31.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.34100s (7.41%)
+Average routing time: 17.05 us
+
+
+Generated 4500 test routes in 0.24000s (5.19%)
+Compiled 4500 test routes in 0.04000s (0.86%)
+Generated 20000 fake requests in 2.76100s (59.70%)
+Wrote files in 0.11000s (2.38%)
+Script ran in 4.62501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.65400s (14.14%)
+Average routing time: 32.70 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.34000s (7.35%)
+Average routing time: 17.00 us
+
+
+Generated 4600 test routes in 0.24000s (5.20%)
+Compiled 4600 test routes in 0.03000s (0.65%)
+Generated 20000 fake requests in 2.73600s (59.28%)
+Wrote files in 0.11000s (2.38%)
+Script ran in 4.61501s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.66700s (14.45%)
+Average routing time: 33.35 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.35200s (7.63%)
+Average routing time: 17.60 us
+
+
+Generated 4700 test routes in 0.25000s (5.27%)
+Compiled 4700 test routes in 0.04000s (0.84%)
+Generated 20000 fake requests in 2.80901s (59.24%)
+Wrote files in 0.12000s (2.53%)
+Script ran in 4.74201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.67000s (14.13%)
+Average routing time: 33.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.35300s (7.44%)
+Average routing time: 17.65 us
+
+
+Generated 4800 test routes in 0.25000s (5.40%)
+Compiled 4800 test routes in 0.04000s (0.86%)
+Generated 20000 fake requests in 2.68101s (57.93%)
+Wrote files in 0.11000s (2.38%)
+Script ran in 4.62801s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.66700s (14.41%)
+Average routing time: 33.35 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.35000s (7.56%)
+Average routing time: 17.50 us
+
+
+Generated 4900 test routes in 0.26000s (5.54%)
+Compiled 4900 test routes in 0.04000s (0.85%)
+Generated 20000 fake requests in 2.68501s (57.23%)
+Wrote files in 0.11000s (2.34%)
+Script ran in 4.69201s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.71000s (15.13%)
+Average routing time: 35.50 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.35700s (7.61%)
+Average routing time: 17.85 us
+
+
+Generated 5000 test routes in 0.26000s (5.35%)
+Compiled 5000 test routes in 0.04000s (0.82%)
+Generated 20000 fake requests in 2.74501s (56.52%)
+Wrote files in 0.11000s (2.26%)
+Script ran in 4.85701s
+
+Fast Route Statistics
+=====================
+Routed 20000 requests in 0.74600s (15.36%)
+Average routing time: 37.30 us
+
+Foxy Route Statistics
+=====================
+Routed 20000 requests in 0.37100s (7.64%)
+Average routing time: 18.55 us
