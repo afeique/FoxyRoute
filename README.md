@@ -12,7 +12,7 @@ Both FoxyRoute and FastRoute exhibit linear performance. FoxyRoute is slightly c
 It is possible that FoxyRoute's performance with larger route tables is thanks to PHP 7's enhanced performance.
 
 * Benchmark runs 50 side-by-side tests of both FoxyRoute and FastRoute. 
-* Each test dispatches 20,000 requests to a randomly generated route-table of different size. 
+* Each test dispatches 20,000 requests to a randomly generated route-table of varying size. 
 * Route tables start at 100 routes and are incremented by 100 routes per test up to 5000 routes.
 * Routes are random depth with a max depth of 10; depths are equally distributed across routes.
 * Every route table has ~25% match blocks e.g. one in every four route URI blocks is a (regex) match block:
