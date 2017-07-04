@@ -13,7 +13,7 @@ Benchmark run using PHP 7.1. **The benchmark needs to be rerun using PHP 5.6 for
 
 Benchmark results are provided in `results.csv`, `log.txt`. 
 
-A randomly generated route table `routes.php`, the FoxyRoute compiled route table `compiled_routes.php`, and the fake requests used to profile the dispatcher `fake_requests.php` are provided as examples. These three files return a PHP array and are overwritten every time the benchmark is run.
+A randomly generated route table `routes.php`, the FoxyRoute compiled route table `compiled_routes.php`, and the fake requests used to profile the dispatcher `fake_requests.php` are provided as examples. These three files each return PHP arrays and are overwritten every time the benchmark is run.
 
 ## Performance Discussion
 
