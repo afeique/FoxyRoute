@@ -35,4 +35,12 @@ It is possible that FoxyRoute's performance with larger route tables is thanks t
 
 The `{id:\d+}` is a match block.
 
+## Running Benchmark
+
+Simply clone and execute:
+
     $ php index.php
+
+To capture the output:
+
+    $ php index.php 2>&1 | tee -a log.txt
