@@ -1,8 +1,8 @@
 # FoxyRoute
 
-## Benchmark Results
+## [Benchmark Results](https://goo.gl/8XfYLj)
 
-[View benchmark results](https://goo.gl/8XfYLj). Benchmark run using PHP 7.1. **The benchmark needs to be rerun using PHP 5.6 for further analysis.**
+Benchmark run using PHP 7.1. **The benchmark needs to be rerun using PHP 5.6 for further analysis.**
 
     $ php --version
     PHP 7.1.1 (cli) (built: Jan 18 2017 18:51:14) ( ZTS MSVC14 (Visual C++ 2015) x86)
